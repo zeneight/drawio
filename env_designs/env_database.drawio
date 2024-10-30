@@ -38,7 +38,7 @@
           <mxGeometry x="-1049" y="520" width="166" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OPVWLIpL3ypl_xMwNCoC-14" value="&lt;div&gt;OS: Windows Server 2012 R2&lt;br&gt;&lt;/div&gt;&lt;div&gt;RAM/CPU: 4GB/2vCPU&lt;br&gt;&lt;/div&gt;&lt;div&gt;Size: 700GB&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tools: DBeaver U 23.1.0&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-370.5" y="140.5" width="166" height="76" as="geometry" />
+          <mxGeometry x="-373" y="124" width="166" height="76" as="geometry" />
         </mxCell>
         <mxCell id="OPVWLIpL3ypl_xMwNCoC-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-869" y="96" width="60" height="80" as="geometry" />
@@ -166,29 +166,17 @@
         <mxCell id="OPVWLIpL3ypl_xMwNCoC-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;strokeWidth=2;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="-261" y="-63" width="48" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="g5xEGFVdyzLdgF73aM4j-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-819" y="324" as="sourcePoint" />
-            <mxPoint x="-769" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g5xEGFVdyzLdgF73aM4j-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-819" y="324" as="sourcePoint" />
-            <mxPoint x="-769" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g5xEGFVdyzLdgF73aM4j-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-819" y="324" as="sourcePoint" />
-            <mxPoint x="-769" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g5xEGFVdyzLdgF73aM4j-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-766" y="20" as="sourcePoint" />
             <mxPoint x="-551" y="116" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g5xEGFVdyzLdgF73aM4j-6" value="ON PREMISE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1408" y="-105" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5xEGFVdyzLdgF73aM4j-7" value="PDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-589" y="-99" width="71" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
