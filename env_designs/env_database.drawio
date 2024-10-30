@@ -172,10 +172,10 @@
             <mxPoint x="-551" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5xEGFVdyzLdgF73aM4j-6" value="ON PREMISE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5xEGFVdyzLdgF73aM4j-6" value="ON PREMISE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1392" y="-97" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g5xEGFVdyzLdgF73aM4j-7" value="PDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g5xEGFVdyzLdgF73aM4j-7" value="PDN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-589" y="-99" width="71" height="30" as="geometry" />
         </mxCell>
       </root>
