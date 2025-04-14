@@ -1,9 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.12">
   <diagram name="Page-1" id="UZyhK5xKAOpFqFn1I4kH">
-    <mxGraphModel>
+    <mxGraphModel dx="2404" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-1" target="K6yoBhtrQ8tG0C8prNIf-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-1" target="K6yoBhtrQ8tG0C8prNIf-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Whookom&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Webhook &amp;amp; Aplikasi Notifikasi&lt;/div&gt;(Kirim e-mail, Whatsapp &amp;amp; Mandala Chain setiap ada trigger)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="233" width="200" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.579;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-10" target="K6yoBhtrQ8tG0C8prNIf-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-10" target="K6yoBhtrQ8tG0C8prNIf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-10" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SPLP&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Sistem Penghubung&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="402" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwb2x5Z29uIGZpbGw9IiM5MENBRjkiIHBvaW50cz0iMzYsMTMgMzYsOSAyMiw5IDIyLDIyIDEzLDIyIDEzLDI2IDIyLDI2IDIyLDM5IDM2LDM5IDM2LDM1IDI2LDM1IDI2LDI2IDM2LDI2IDM2LDIyIDI2LDIyIDI2LDEzIi8+JiN4YTsgICAgPHJlY3QgeD0iNiIgeT0iMTciIGZpbGw9IiNEODFCNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxNCIvPiYjeGE7ICAgIDxyZWN0IHg9IjMyIiB5PSI2IiBmaWxsPSIjMjE5NkYzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz4mI3hhOyAgICA8cmVjdCB4PSIzMiIgeT0iMzIiIGZpbGw9IiMyMTk2RjMiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPiYjeGE7ICAgIDxyZWN0IHg9IjMyIiB5PSIxOSIgZmlsbD0iIzIxOTZGMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="380" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-12" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM5MEE0QUUiIGQ9Ik04LDM5VjljMC0zLjMsMi43LTYsNi02aDIwYzMuMywwLDYsMi43LDYsNnYzMGMwLDMuMy0yLjcsNi02LDZIMTRDMTAuNyw0NSw4LDQyLjMsOCwzOXoiLz4mI3hhOyAgICA8cGF0aCBmaWxsPSIjRUNFRkYxIiBkPSJNMzQsN0gxNGMtMS4xLDAtMiwwLjktMiwydjI2YzAsMS4xLDAuOSwyLDIsMmgyMGMxLjEsMCwyLTAuOSwyLTJWOUMzNiw3LjksMzUuMSw3LDM0LDd6Ii8+JiN4YTsgICAgPGcgZmlsbD0iI0IwQkVDNSI+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIxMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjMiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjE5IiB3aWR0aD0iMTYiIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxNiIgeT0iMjMiIHdpZHRoPSIxMiIgaGVpZ2h0PSIyIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIyNyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjMxIiB3aWR0aD0iMTIiIGhlaWdodD0iMiIvPiYjeGE7ICAgIDwvZz4mI3hhOyAgICA8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNlZWUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkPSJNMjIsNDN2LTFjMC0xLjEsMC45LTIsMi0yaDBjMS4xLDAsMiwwLjksMiwydjEiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="220" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-16" target="K6yoBhtrQ8tG0C8prNIf-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-125" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Whatsapp&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Kirim Dokumen PDF, gambar &amp;amp; teks khusus&lt;br&gt;Trigger Kirim Pesan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="320" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-29" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM5MENBRjkiIGQ9Ik00MywzMFYxOGMwLTIuMi0xLjgtNC00LTRIOWMtMi4yLDAtNCwxLjgtNCw0djEyYzAsMi4yLDEuOCw0LDQsNGgzMEM0MS4yLDM0LDQzLDMyLjIsNDMsMzB6IE05LDE4aDMwdjEyIEw5LDMwVjE4eiIvPiYjeGE7ICAgIDxjaXJjbGUgZmlsbD0iI0Y0NDMzNiIgY3g9IjM4IiBjeT0iMzgiIHI9IjEwIi8+JiN4YTsgICAgPGcgZmlsbD0iI2ZmZiI+JiN4YTsgICAgICAgIDxyZWN0IHg9IjM2LjUiIHk9IjMyIiB0cmFuc2Zvcm09Im1hdHJpeCgtLjcwNyAuNzA3IC0uNzA3IC0uNzA3IDkxLjc0IDM4KSIgd2lkdGg9IjMiIGhlaWdodD0iMTIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMzYuNSIgeT0iMzIiIHRyYW5zZm9ybT0ibWF0cml4KC0uNzA3IC0uNzA3IC43MDcgLS43MDcgMzggOTEuNzQpIiB3aWR0aD0iMyIgaGVpZ2h0PSIxMiIvPiYjeGE7ICAgIDwvZz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="-547" y="210" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplikasi Lainnya&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LAKON (Kirim data permohonan layanan)&lt;/div&gt;&lt;div&gt;e-Surat (Kirim dokumen surat)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="520" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.992;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-38" target="K6yoBhtrQ8tG0C8prNIf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-38" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Trello&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Kirim Data Notulen, Catatan Teknis, Laporan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="520" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-45" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Mandala Chain&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Kirim Data ke mandala chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="242" width="190" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
