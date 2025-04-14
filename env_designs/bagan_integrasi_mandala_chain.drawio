@@ -17,13 +17,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Whookom&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Webhook &amp;amp; Aplikasi Notifikasi&lt;/div&gt;&lt;div&gt;Kirim e-mail, Whatsapp &amp;amp; Mandala Chain setiap ada trigger&lt;/div&gt;&lt;div&gt;Simpan Respon dari Mandala Chain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Whookom&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Webhook &amp;amp; Aplikasi Notifikasi)&lt;/div&gt;&lt;div&gt;- Kirim e-mail, Whatsapp &amp;amp; Mandala Chain setiap ada trigger&lt;/div&gt;&lt;div&gt;- Simpan Respon dari Mandala Chain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-562.5" y="209" width="215" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-10" target="K6yoBhtrQ8tG0C8prNIf-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-10" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SPLP&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Sistem Penghubung&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-10" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SPLP&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(Sistem Penghubung)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="402" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwb2x5Z29uIGZpbGw9IiM5MENBRjkiIHBvaW50cz0iMzYsMTMgMzYsOSAyMiw5IDIyLDIyIDEzLDIyIDEzLDI2IDIyLDI2IDIyLDM5IDM2LDM5IDM2LDM1IDI2LDM1IDI2LDI2IDM2LDI2IDM2LDIyIDI2LDIyIDI2LDEzIi8+JiN4YTsgICAgPHJlY3QgeD0iNiIgeT0iMTciIGZpbGw9IiNEODFCNjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxNCIvPiYjeGE7ICAgIDxyZWN0IHg9IjMyIiB5PSI2IiBmaWxsPSIjMjE5NkYzIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiLz4mI3hhOyAgICA8cmVjdCB4PSIzMiIgeT0iMzIiIGZpbGw9IiMyMTk2RjMiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIvPiYjeGE7ICAgIDxyZWN0IHg9IjMyIiB5PSIxOSIgZmlsbD0iIzIxOTZGMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIi8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
@@ -39,13 +39,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Whatsapp&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Kirim Dokumen PDF, gambar &amp;amp; teks khusus&lt;br&gt;Trigger Kirim Pesan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Whatsapp&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- Kirim Dokumen PDF, gambar &amp;amp; teks khusus&lt;br&gt;- Trigger Kirim Pesan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="310" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplikasi Lainnya&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;LAKON (Kirim permohonan layanan)&lt;/div&gt;&lt;div&gt;e-Surat (Kirim dokumen surat)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="520" width="220" height="70" as="geometry" />
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplikasi Internal&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- LAKON (Kirim permohonan layanan)&lt;/div&gt;&lt;div&gt;- e-Surat (Kirim dokumen surat)&lt;/div&gt;&lt;div&gt;- Aplikasi Lainnya+&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="520" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-38" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Trello&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Kirim Data Notulen, Catatan Teknis, Laporan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-38" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Trello&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;- Kirim Data Notulen, Catatan Teknis, Laporan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="520" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
