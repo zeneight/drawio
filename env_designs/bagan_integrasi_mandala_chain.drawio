@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Whatsapp&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- Kirim Dokumen PDF, gambar &amp;amp; teks khusus&lt;br&gt;- Trigger Kirim Pesan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Whatsapp&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- Kirim Dokumen PDF, gambar &amp;amp; teks khusus&lt;br&gt;- Trigger Kirim Pesan Notifikasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="310" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplikasi Internal&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;- LAKON (Kirim permohonan layanan)&lt;/div&gt;&lt;div&gt;- e-Surat (Kirim dokumen surat)&lt;/div&gt;&lt;div&gt;- Aplikasi Lainnya+&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
