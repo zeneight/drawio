@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.12">
   <diagram name="Page-1" id="UZyhK5xKAOpFqFn1I4kH">
-    <mxGraphModel dx="2404" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-1" target="K6yoBhtrQ8tG0C8prNIf-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-555" y="290" as="sourcePoint" />
+            <mxPoint x="-610" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-1" target="K6yoBhtrQ8tG0C8prNIf-16">
           <mxGeometry relative="1" as="geometry">
@@ -14,8 +17,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6yoBhtrQ8tG0C8prNIf-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Whookom&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Webhook &amp;amp; Aplikasi Notifikasi&lt;/div&gt;(Kirim e-mail, Whatsapp &amp;amp; Mandala Chain setiap ada trigger)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-555" y="233" width="200" height="88" as="geometry" />
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Whookom&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Webhook &amp;amp; Aplikasi Notifikasi&lt;/div&gt;&lt;div&gt;Kirim e-mail, Whatsapp &amp;amp; Mandala Chain setiap ada trigger&lt;/div&gt;&lt;div&gt;Simpan Respon dari Mandala Chain&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562.5" y="209" width="215" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-10" target="K6yoBhtrQ8tG0C8prNIf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -27,7 +30,7 @@
           <mxGeometry x="-385" y="380" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-12" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM5MEE0QUUiIGQ9Ik04LDM5VjljMC0zLjMsMi43LTYsNi02aDIwYzMuMywwLDYsMi43LDYsNnYzMGMwLDMuMy0yLjcsNi02LDZIMTRDMTAuNyw0NSw4LDQyLjMsOCwzOXoiLz4mI3hhOyAgICA8cGF0aCBmaWxsPSIjRUNFRkYxIiBkPSJNMzQsN0gxNGMtMS4xLDAtMiwwLjktMiwydjI2YzAsMS4xLDAuOSwyLDIsMmgyMGMxLjEsMCwyLTAuOSwyLTJWOUMzNiw3LjksMzUuMSw3LDM0LDd6Ii8+JiN4YTsgICAgPGcgZmlsbD0iI0IwQkVDNSI+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIxMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjMiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjE5IiB3aWR0aD0iMTYiIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxNiIgeT0iMjMiIHdpZHRoPSIxMiIgaGVpZ2h0PSIyIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIyNyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTYiIHk9IjMxIiB3aWR0aD0iMTIiIGhlaWdodD0iMiIvPiYjeGE7ICAgIDwvZz4mI3hhOyAgICA8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNlZWUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkPSJNMjIsNDN2LTFjMC0xLjEsMC45LTIsMi0yaDBjMS4xLDAsMiwwLjksMiwydjEiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
-          <mxGeometry x="-385" y="210" width="48" height="48" as="geometry" />
+          <mxGeometry x="-370" y="180" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6yoBhtrQ8tG0C8prNIf-16" target="K6yoBhtrQ8tG0C8prNIf-10">
           <mxGeometry relative="1" as="geometry">
@@ -44,6 +47,16 @@
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-38" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Trello&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Kirim Data Notulen, Catatan Teknis, Laporan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="520" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K6yoBhtrQ8tG0C8prNIf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-610" y="270" as="sourcePoint" />
+            <mxPoint x="-560" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-590" y="270" />
+              <mxPoint x="-590" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K6yoBhtrQ8tG0C8prNIf-45" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;API Mandala Chain&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Kirim Data ke mandala chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="242" width="190" height="70" as="geometry" />
